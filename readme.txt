@@ -1,0 +1,1 @@
+this is a c# code for a method of  text file Compression 
