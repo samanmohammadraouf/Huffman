@@ -1,0 +1,6 @@
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.exe.config
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.exe
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\bin\Debug\HuffmanCoding.pdb
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\obj\Debug\HuffmanCoding.csprojResolveAssemblyReference.cache
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\obj\Debug\HuffmanCoding.exe
+C:\Users\Userq\Desktop\HuffmanCoding-ce11f970fa7f2de1aabcdb3014095f943d7df94b\Documents\Visual Studio 2017\Projects\HuffmanCoding\HuffmanCoding\obj\Debug\HuffmanCoding.pdb
